@@ -11,6 +11,9 @@ class ClassName extends AnotherClass {
 
     function getAcess(){
     	$name = '123';
+    	$zsong = '12222';
+    	$zsong = 'gaosu';
     	return  $name;
+
     }
 }
